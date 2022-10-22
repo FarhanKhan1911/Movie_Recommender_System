@@ -23,14 +23,6 @@ Numpy , Pandas , Scipy
 #### Database
 SQLite
 
-##### Requirements
-```
-python 3.6
-
-pip3
-
-virtualenv
-```
 ##### Setup to run
 
 Extract zip file in your computer
